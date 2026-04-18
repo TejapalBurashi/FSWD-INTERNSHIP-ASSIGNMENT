@@ -1,0 +1,23 @@
+body{
+    font-family: Arial;
+    text-align: center;
+}
+
+input{
+    padding:8px;
+}
+
+button{
+    padding:6px;
+    margin-left:5px;
+}
+
+li{
+    margin:10px;
+    list-style:none;
+}
+
+.completed{
+    text-decoration: line-through;
+    color: gray;
+}
