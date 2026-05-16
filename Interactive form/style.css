@@ -1,0 +1,28 @@
+body {
+    font-family: Arial;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+form {
+    padding: 20px;
+    border: 1px solid #ccc;
+    width: 250px;
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    margin: 8px 0;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+}
+
+#message {
+    margin-top: 10px;
+    font-weight: bold;
+}
